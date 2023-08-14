@@ -1,0 +1,522 @@
+Name,Make,Colour,Mileage,Initial Price,Saftey Index,Saftey Classification,Engine Type,Seating Capacity,Seat Classification,Varient,Car Type
+Harrier,Tata,Crome/ Silver,22,950000,4.5,Good,Petrol,5,5 seater,Mid,Fuel Efficient
+i20,Hundai,White,20,975000,4,Good,Diesel,4,4 seater,Mid,Power and fuel efficient
+Creta,Hundai,White,19,1475000,4.5,Good,Diesel,5,5 seater,Mid,Power and fuel efficient
+Harrier,Tata,Mat black,22,900000,4.5,Good,Diesel,5,5 seater,Basic,Fuel Efficient
+Verna,Hundai,Dark Blue,17,1275000,4,Good,Petrol,4,4 seater,Basic,Power 
+Nexon,Tata,Dark Blue,22,900000,5,Best,Diesel,5,5 seater,Basic,Fuel Efficient
+Harrier,Tata,Red,22,1025000,4.5,Good,Diesel,5,5 seater,Top,Fuel Efficient
+Harrier,Tata,Dark Blue,22,950000,4.5,Good,Petrol,5,5 seater,Mid,Fuel Efficient
+XUV300,Mahendra,Red,22,1000000,4.5,Good,Petrol,5,5 seater,Top,Power and fuel efficient
+Swift,Maruthi Suzuki,Red,23,875000,4,Good,Petrol,4,4 seater,Basic,Fuel Efficient
+Creta,Hundai,Crome/ Silver,19,1475000,4.5,Good,Diesel,5,5 seater,Mid,Power and fuel efficient
+Hector,MG,White,18,1450000,4.5,Good,Petrol,5,5 seater,Mid,Power and fuel efficient
+Alto 800,Maruthi Suzuki,Black,25,450000,3.5,Fairly Good,Petrol,4,4 seater,Basic,Fuel Efficient
+Scorpio,Mahendra,Red,17,1300000,4.5,Good,Diesel,7,7 seater,Basic,Power 
+Vitara Brezza,Maruthi Suzuki,Crome/ Silver,22,1500000,4,Good,Petrol,5,5 seater,Top,Fuel Efficient
+Alto 800,Maruthi Suzuki,Black,25,450000,3.5,Fairly Good,Petrol,4,4 seater,Basic,Fuel Efficient
+Seltos,Kia,White,20,1300000,4.5,Good,Diesel,7,7 seater,Basic,Power and fuel efficient
+Harrier,Tata,White,22,950000,4.5,Good,Petrol,5,5 seater,Mid,Fuel Efficient
+Vitara Brezza,Maruthi Suzuki,Maroon,22,1300000,4,Good,Diesel,5,5 seater,Basic,Fuel Efficient
+Fortuner,Tayota,Crome/ Silver,10,4000000,5,Best,Petrol,7,7 seater,Top,Power 
+Nexon,Tata,Gold,22,1000000,5,Best,Petrol,5,5 seater,Top,Fuel Efficient
+XUV300,Mahendra,White,22,875000,4.5,Good,Petrol,5,5 seater,Basic,Power and fuel efficient
+XUV700,Mahendra,Gold,17,1275000,5,Best,Petrol,7,7 seater,Basic,Power 
+Seltos,Kia,Mat black,20,1275000,4.5,Good,Petrol,7,7 seater,Basic,Power and fuel efficient
+Civic,Honda,Dark Blue,17,1275000,4.5,Good,Petrol,5,5 seater,Basic,Power 
+Thar,Mahendra,Red,16,950000,4.5,Good,Petrol,4,4 seater,Mid,Power 
+Punch,Tata,Mat black,24,550000,4.5,Good,Petrol,4,4 seater,Mid,Fuel Efficient
+Creta,Hundai,Mat black,19,1450000,4.5,Good,Petrol,5,5 seater,Mid,Power and fuel efficient
+XUV300,Mahendra,Mat black,22,950000,4.5,Good,Petrol,5,5 seater,Mid,Power and fuel efficient
+Punch,Tata,Crome/ Silver,24,550000,4.5,Good,Petrol,4,4 seater,Mid,Fuel Efficient
+Thar,Mahendra,Dark Blue,16,900000,4.5,Good,Diesel,4,4 seater,Basic,Power 
+Thar,Mahendra,White,16,975000,4.5,Good,Diesel,4,4 seater,Mid,Power 
+Fortuner,Tayota,White,10,4000000,5,Best,Petrol,7,7 seater,Top,Power 
+Baleno,Maruthi Suzuki,Gold,24,975000,4,Good,Diesel,5,5 seater,Mid,Fuel Efficient
+City,Honda,Gold,19,1300000,4.5,Good,Diesel,4,4 seater,Basic,Power and fuel efficient
+Verna,Hundai,Maroon,17,1500000,4,Good,Petrol,4,4 seater,Top,Power 
+Verna,Hundai,White,17,1475000,4,Good,Diesel,4,4 seater,Mid,Power 
+Ertiga,Maruthi Suzuki,White,18,1275000,4,Good,Petrol,7,7 seater,Basic,Fuel Efficient
+City,Honda,Red,19,1475000,4.5,Good,Diesel,4,4 seater,Mid,Power and fuel efficient
+Etios,Tayota,Gold,22,975000,4,Good,Diesel,7,7 seater,Mid,Fuel Efficient
+Civic,Honda,Maroon,17,1475000,4.5,Good,Diesel,5,5 seater,Mid,Power 
+Altroz,Tata,Crome/ Silver,24,625000,5,Best,Diesel,4,4 seater,Top,Power and fuel efficient
+Altroz,Tata,Gold,24,450000,5,Best,Petrol,4,4 seater,Basic,Power and fuel efficient
+Seltos,Kia,Dark Blue,20,1300000,4.5,Good,Diesel,7,7 seater,Basic,Power and fuel efficient
+Ertiga,Maruthi Suzuki,Red,18,1275000,4,Good,Petrol,7,7 seater,Basic,Fuel Efficient
+Hector,MG,Dark Blue,18,1300000,4.5,Good,Diesel,5,5 seater,Basic,Power and fuel efficient
+Baleno,Maruthi Suzuki,Dark Blue,24,1000000,4,Good,Petrol,5,5 seater,Top,Fuel Efficient
+Verna,Hundai,Dark Blue,17,1450000,4,Good,Petrol,4,4 seater,Mid,Power 
+Harrier,Tata,Maroon,22,875000,4.5,Good,Petrol,5,5 seater,Basic,Fuel Efficient
+Etios,Tayota,Maroon,22,900000,4,Good,Diesel,7,7 seater,Basic,Fuel Efficient
+Thar,Mahendra,Maroon,16,950000,4.5,Good,Petrol,4,4 seater,Mid,Power 
+Fortuner,Tayota,Crome/ Silver,10,4050000,5,Best,Diesel,7,7 seater,Top,Power 
+Fortuner,Tayota,White,10,3750000,5,Best,Petrol,7,7 seater,Mid,Power 
+Verna,Hundai,Mat black,17,1300000,4,Good,Diesel,4,4 seater,Basic,Power 
+Fortuner,Tayota,Crome/ Silver,10,4050000,5,Best,Diesel,7,7 seater,Top,Power 
+Vitara Brezza,Maruthi Suzuki,Red,22,1500000,4,Good,Petrol,5,5 seater,Top,Fuel Efficient
+Harrier,Tata,White,22,1000000,4.5,Good,Petrol,5,5 seater,Top,Fuel Efficient
+Seltos,Kia,Red,20,1525000,4.5,Good,Diesel,7,7 seater,Top,Power and fuel efficient
+Seltos,Kia,Crome/ Silver,20,1475000,4.5,Good,Diesel,7,7 seater,Mid,Power and fuel efficient
+Scorpio,Mahendra,Red,17,1300000,4.5,Good,Diesel,7,7 seater,Basic,Power 
+Baleno,Maruthi Suzuki,Black,24,975000,4,Good,Diesel,5,5 seater,Mid,Fuel Efficient
+Fortuner,Tayota,Red,10,3775000,5,Best,Diesel,7,7 seater,Mid,Power 
+XUV700,Mahendra,White,17,1475000,5,Best,Diesel,7,7 seater,Mid,Power 
+Inova Crysta,Tayota,Black,12,3050000,5,Best,Diesel,7,7 seater,Top,Power 
+Swift,Maruthi Suzuki,Maroon,23,1000000,4,Good,Petrol,4,4 seater,Top,Fuel Efficient
+Verna,Hundai,Mat black,17,1275000,4,Good,Petrol,4,4 seater,Basic,Power 
+Nexon,Tata,Maroon,22,875000,5,Best,Petrol,5,5 seater,Basic,Fuel Efficient
+Inova Crysta,Tayota,Mat black,12,2550000,5,Best,Diesel,7,7 seater,Basic,Power 
+Etios,Tayota,Dark Blue,22,950000,4,Good,Petrol,7,7 seater,Mid,Fuel Efficient
+Punch,Tata,White,24,550000,4.5,Good,Petrol,4,4 seater,Mid,Fuel Efficient
+Seltos,Kia,Gold,20,1500000,4.5,Good,Petrol,7,7 seater,Top,Power and fuel efficient
+Ertiga,Maruthi Suzuki,Gold,18,1475000,4,Good,Diesel,7,7 seater,Mid,Fuel Efficient
+Seltos,Kia,White,20,1300000,4.5,Good,Diesel,7,7 seater,Basic,Power and fuel efficient
+Punch,Tata,Crome/ Silver,24,575000,4.5,Good,Diesel,4,4 seater,Mid,Fuel Efficient
+Santro,Hundai,Red,25,475000,4,Good,Diesel,4,4 seater,Basic,Fuel Efficient
+Celerio,Maruthi Suzuki,Dark Blue,25,475000,3.5,Fairly Good,Diesel,4,4 seater,Basic,Fuel Efficient
+Fortuner,Tayota,Maroon,10,3525000,5,Best,Diesel,7,7 seater,Basic,Power 
+Altroz,Tata,Mat black,24,575000,5,Best,Diesel,4,4 seater,Mid,Power and fuel efficient
+City,Honda,Red,19,1525000,4.5,Good,Diesel,4,4 seater,Top,Power and fuel efficient
+Inova Crysta,Tayota,Crome/ Silver,12,3000000,5,Best,Petrol,7,7 seater,Top,Power 
+Fortuner,Tayota,Dark Blue,10,3525000,5,Best,Diesel,7,7 seater,Basic,Power 
+Seltos,Kia,Gold,20,1300000,4.5,Good,Diesel,7,7 seater,Basic,Power and fuel efficient
+Inova Crysta,Tayota,Gold,12,3000000,5,Best,Petrol,7,7 seater,Top,Power 
+Punch,Tata,Dark Blue,24,600000,4.5,Good,Petrol,4,4 seater,Top,Fuel Efficient
+i20,Hundai,Red,20,1000000,4,Good,Petrol,4,4 seater,Top,Power and fuel efficient
+Nexon,Tata,Gold,22,1000000,5,Best,Petrol,5,5 seater,Top,Fuel Efficient
+Altroz,Tata,Red,24,625000,5,Best,Diesel,4,4 seater,Top,Power and fuel efficient
+Scorpio,Mahendra,Red,17,1300000,4.5,Good,Diesel,7,7 seater,Basic,Power 
+Creta,Hundai,Dark Blue,19,1500000,4.5,Good,Petrol,5,5 seater,Top,Power and fuel efficient
+XUV300,Mahendra,Gold,22,975000,4.5,Good,Diesel,5,5 seater,Mid,Power and fuel efficient
+Verna,Hundai,Gold,17,1500000,4,Good,Petrol,4,4 seater,Top,Power 
+Celerio,Maruthi Suzuki,Crome/ Silver,25,550000,3.5,Fairly Good,Petrol,4,4 seater,Mid,Fuel Efficient
+Altroz,Tata,Dark Blue,24,625000,5,Best,Diesel,4,4 seater,Top,Power and fuel efficient
+Seltos,Kia,Mat black,20,1525000,4.5,Good,Diesel,7,7 seater,Top,Power and fuel efficient
+Inova Crysta,Tayota,Red,12,2700000,5,Best,Petrol,7,7 seater,Mid,Power 
+Nexon,Tata,Red,22,875000,5,Best,Petrol,5,5 seater,Basic,Fuel Efficient
+Hector,MG,Mat black,18,1475000,4.5,Good,Diesel,5,5 seater,Mid,Power and fuel efficient
+Verna,Hundai,Mat black,17,1500000,4,Good,Petrol,4,4 seater,Top,Power 
+Hector,MG,Maroon,18,1500000,4.5,Good,Petrol,5,5 seater,Top,Power and fuel efficient
+Vitara Brezza,Maruthi Suzuki,Red,22,1275000,4,Good,Petrol,5,5 seater,Basic,Fuel Efficient
+Thar,Mahendra,Red,16,900000,4.5,Good,Diesel,4,4 seater,Basic,Power 
+Harrier,Tata,Crome/ Silver,22,1000000,4.5,Good,Petrol,5,5 seater,Top,Fuel Efficient
+Harrier,Tata,Mat black,22,1000000,4.5,Good,Petrol,5,5 seater,Top,Fuel Efficient
+Verna,Hundai,Red,17,1475000,4,Good,Diesel,4,4 seater,Mid,Power 
+Santro,Hundai,Dark Blue,25,625000,4,Good,Diesel,4,4 seater,Top,Fuel Efficient
+Creta,Hundai,Dark Blue,19,1450000,4.5,Good,Petrol,5,5 seater,Mid,Power and fuel efficient
+XUV700,Mahendra,White,17,1450000,5,Best,Petrol,7,7 seater,Mid,Power 
+Alto 800,Maruthi Suzuki,Mat black,25,475000,3.5,Fairly Good,Diesel,4,4 seater,Basic,Fuel Efficient
+Civic,Honda,Mat black,17,1300000,4.5,Good,Diesel,5,5 seater,Basic,Power 
+XUV300,Mahendra,Red,22,950000,4.5,Good,Petrol,5,5 seater,Mid,Power and fuel efficient
+Altroz,Tata,Gold,24,550000,5,Best,Petrol,4,4 seater,Mid,Power and fuel efficient
+Verna,Hundai,Red,17,1300000,4,Good,Diesel,4,4 seater,Basic,Power 
+Altroz,Tata,Dark Blue,24,450000,5,Best,Petrol,4,4 seater,Basic,Power and fuel efficient
+Harrier,Tata,Gold,22,1000000,4.5,Good,Petrol,5,5 seater,Top,Fuel Efficient
+Civic,Honda,Gold,17,1275000,4.5,Good,Petrol,5,5 seater,Basic,Power 
+Civic,Honda,Black,17,1475000,4.5,Good,Diesel,5,5 seater,Mid,Power 
+Baleno,Maruthi Suzuki,Maroon,24,975000,4,Good,Diesel,5,5 seater,Mid,Fuel Efficient
+Alto 800,Maruthi Suzuki,Gold,25,575000,3.5,Fairly Good,Diesel,4,4 seater,Mid,Fuel Efficient
+Punch,Tata,Black,24,550000,4.5,Good,Petrol,4,4 seater,Mid,Fuel Efficient
+i20,Hundai,Mat black,20,875000,4,Good,Petrol,4,4 seater,Basic,Power and fuel efficient
+Vitara Brezza,Maruthi Suzuki,Mat black,22,1500000,4,Good,Petrol,5,5 seater,Top,Fuel Efficient
+Verna,Hundai,Crome/ Silver,17,1500000,4,Good,Petrol,4,4 seater,Top,Power 
+XUV300,Mahendra,Red,22,950000,4.5,Good,Petrol,5,5 seater,Mid,Power and fuel efficient
+Swift,Maruthi Suzuki,Dark Blue,23,875000,4,Good,Petrol,4,4 seater,Basic,Fuel Efficient
+Alto 800,Maruthi Suzuki,White,25,550000,3.5,Fairly Good,Petrol,4,4 seater,Mid,Fuel Efficient
+Vitara Brezza,Maruthi Suzuki,Gold,22,1475000,4,Good,Diesel,5,5 seater,Mid,Fuel Efficient
+Thar,Mahendra,Red,16,875000,4.5,Good,Petrol,4,4 seater,Basic,Power 
+Inova Crysta,Tayota,Dark Blue,12,2550000,5,Best,Diesel,7,7 seater,Basic,Power 
+Nexon,Tata,Gold,22,900000,5,Best,Diesel,5,5 seater,Basic,Fuel Efficient
+Harrier,Tata,Dark Blue,22,1000000,4.5,Good,Petrol,5,5 seater,Top,Fuel Efficient
+Santro,Hundai,White,25,550000,4,Good,Petrol,4,4 seater,Mid,Fuel Efficient
+XUV700,Mahendra,Dark Blue,17,1475000,5,Best,Diesel,7,7 seater,Mid,Power 
+Altroz,Tata,Gold,24,450000,5,Best,Petrol,4,4 seater,Basic,Power and fuel efficient
+Scorpio,Mahendra,Gold,17,1475000,4.5,Good,Diesel,7,7 seater,Mid,Power 
+XUV300,Mahendra,Black,22,950000,4.5,Good,Petrol,5,5 seater,Mid,Power and fuel efficient
+Santro,Hundai,Crome/ Silver,25,475000,4,Good,Diesel,4,4 seater,Basic,Fuel Efficient
+Inova Crysta,Tayota,Dark Blue,12,3000000,5,Best,Petrol,7,7 seater,Top,Power 
+Harrier,Tata,Black,22,875000,4.5,Good,Petrol,5,5 seater,Basic,Fuel Efficient
+Creta,Hundai,Crome/ Silver,19,1475000,4.5,Good,Diesel,5,5 seater,Mid,Power and fuel efficient
+Vitara Brezza,Maruthi Suzuki,Red,22,1500000,4,Good,Petrol,5,5 seater,Top,Fuel Efficient
+Thar,Mahendra,Mat black,16,975000,4.5,Good,Diesel,4,4 seater,Mid,Power 
+Etios,Tayota,Crome/ Silver,22,900000,4,Good,Diesel,7,7 seater,Basic,Fuel Efficient
+Alto 800,Maruthi Suzuki,Black,25,625000,3.5,Fairly Good,Diesel,4,4 seater,Top,Fuel Efficient
+Santro,Hundai,Black,25,600000,4,Good,Petrol,4,4 seater,Top,Fuel Efficient
+Verna,Hundai,Crome/ Silver,17,1475000,4,Good,Diesel,4,4 seater,Mid,Power 
+Alto 800,Maruthi Suzuki,Gold,25,550000,3.5,Fairly Good,Petrol,4,4 seater,Mid,Fuel Efficient
+Nexon,Tata,Gold,22,900000,5,Best,Diesel,5,5 seater,Basic,Fuel Efficient
+Inova Crysta,Tayota,White,12,3050000,5,Best,Diesel,7,7 seater,Top,Power 
+XUV300,Mahendra,Crome/ Silver,22,950000,4.5,Good,Petrol,5,5 seater,Mid,Power and fuel efficient
+Alto 800,Maruthi Suzuki,White,25,600000,3.5,Fairly Good,Petrol,4,4 seater,Top,Fuel Efficient
+Fortuner,Tayota,Crome/ Silver,10,3750000,5,Best,Petrol,7,7 seater,Mid,Power 
+Civic,Honda,Maroon,17,1450000,4.5,Good,Petrol,5,5 seater,Mid,Power 
+Alto 800,Maruthi Suzuki,Mat black,25,475000,3.5,Fairly Good,Diesel,4,4 seater,Basic,Fuel Efficient
+Verna,Hundai,Crome/ Silver,17,1475000,4,Good,Diesel,4,4 seater,Mid,Power 
+Hector,MG,White,18,1300000,4.5,Good,Diesel,5,5 seater,Basic,Power and fuel efficient
+Vitara Brezza,Maruthi Suzuki,Red,22,1275000,4,Good,Petrol,5,5 seater,Basic,Fuel Efficient
+Swift,Maruthi Suzuki,Black,23,950000,4,Good,Petrol,4,4 seater,Mid,Fuel Efficient
+Verna,Hundai,Gold,17,1500000,4,Good,Petrol,4,4 seater,Top,Power 
+Vitara Brezza,Maruthi Suzuki,White,22,1525000,4,Good,Diesel,5,5 seater,Top,Fuel Efficient
+Scorpio,Mahendra,Black,17,1550000,4.5,Good,Diesel,7,7 seater,Top,Power 
+Thar,Mahendra,Red,16,900000,4.5,Good,Diesel,4,4 seater,Basic,Power 
+Seltos,Kia,Gold,20,1475000,4.5,Good,Diesel,7,7 seater,Mid,Power and fuel efficient
+Santro,Hundai,Maroon,25,450000,4,Good,Petrol,4,4 seater,Basic,Fuel Efficient
+Alto 800,Maruthi Suzuki,Mat black,25,600000,3.5,Fairly Good,Petrol,4,4 seater,Top,Fuel Efficient
+Altroz,Tata,Crome/ Silver,24,600000,5,Best,Petrol,4,4 seater,Top,Power and fuel efficient
+Seltos,Kia,Gold,20,1500000,4.5,Good,Petrol,7,7 seater,Top,Power and fuel efficient
+Baleno,Maruthi Suzuki,Red,24,950000,4,Good,Petrol,5,5 seater,Mid,Fuel Efficient
+Ertiga,Maruthi Suzuki,Red,18,1500000,4,Good,Petrol,7,7 seater,Top,Fuel Efficient
+Verna,Hundai,White,17,1275000,4,Good,Petrol,4,4 seater,Basic,Power 
+Alto 800,Maruthi Suzuki,Gold,25,450000,3.5,Fairly Good,Petrol,4,4 seater,Basic,Fuel Efficient
+Creta,Hundai,Dark Blue,19,1525000,4.5,Good,Diesel,5,5 seater,Top,Power and fuel efficient
+Alto 800,Maruthi Suzuki,Red,25,450000,3.5,Fairly Good,Petrol,4,4 seater,Basic,Fuel Efficient
+Punch,Tata,Dark Blue,24,575000,4.5,Good,Diesel,4,4 seater,Mid,Fuel Efficient
+Baleno,Maruthi Suzuki,Black,24,950000,4,Good,Petrol,5,5 seater,Mid,Fuel Efficient
+Baleno,Maruthi Suzuki,White,24,1000000,4,Good,Petrol,5,5 seater,Top,Fuel Efficient
+Hector,MG,Black,18,1500000,4.5,Good,Petrol,5,5 seater,Top,Power and fuel efficient
+Nexon,Tata,Mat black,22,875000,5,Best,Petrol,5,5 seater,Basic,Fuel Efficient
+Alto 800,Maruthi Suzuki,Mat black,25,600000,3.5,Fairly Good,Petrol,4,4 seater,Top,Fuel Efficient
+Harrier,Tata,Maroon,22,1025000,4.5,Good,Diesel,5,5 seater,Top,Fuel Efficient
+Baleno,Maruthi Suzuki,Dark Blue,24,1000000,4,Good,Petrol,5,5 seater,Top,Fuel Efficient
+Altroz,Tata,White,24,475000,5,Best,Diesel,4,4 seater,Basic,Power and fuel efficient
+i20,Hundai,Gold,20,875000,4,Good,Petrol,4,4 seater,Basic,Power and fuel efficient
+Civic,Honda,Dark Blue,17,1300000,4.5,Good,Diesel,5,5 seater,Basic,Power 
+Harrier,Tata,Dark Blue,22,1025000,4.5,Good,Diesel,5,5 seater,Top,Fuel Efficient
+Altroz,Tata,Gold,24,475000,5,Best,Diesel,4,4 seater,Basic,Power and fuel efficient
+City,Honda,Dark Blue,19,1450000,4.5,Good,Petrol,4,4 seater,Mid,Power and fuel efficient
+Vitara Brezza,Maruthi Suzuki,White,22,1475000,4,Good,Diesel,5,5 seater,Mid,Fuel Efficient
+Vitara Brezza,Maruthi Suzuki,White,22,1450000,4,Good,Petrol,5,5 seater,Mid,Fuel Efficient
+XUV700,Mahendra,White,17,1275000,5,Best,Petrol,7,7 seater,Basic,Power 
+Nexon,Tata,Gold,22,975000,5,Best,Diesel,5,5 seater,Mid,Fuel Efficient
+Baleno,Maruthi Suzuki,Dark Blue,24,875000,4,Good,Diesel,5,5 seater,Basic,Fuel Efficient
+City,Honda,Gold,19,1475000,4.5,Good,Diesel,4,4 seater,Mid,Power and fuel efficient
+Swift,Maruthi Suzuki,Gold,23,900000,4,Good,Diesel,4,4 seater,Basic,Fuel Efficient
+Alto 800,Maruthi Suzuki,Maroon,25,575000,3.5,Fairly Good,Diesel,4,4 seater,Mid,Fuel Efficient
+Verna,Hundai,Red,17,1450000,4,Good,Petrol,4,4 seater,Mid,Power 
+Thar,Mahendra,Dark Blue,16,900000,4.5,Good,Diesel,4,4 seater,Basic,Power 
+Hector,MG,Gold,18,1475000,4.5,Good,Diesel,5,5 seater,Mid,Power and fuel efficient
+Alto 800,Maruthi Suzuki,Dark Blue,25,575000,3.5,Fairly Good,Diesel,4,4 seater,Mid,Fuel Efficient
+Scorpio,Mahendra,Crome/ Silver,17,1500000,4.5,Good,Petrol,7,7 seater,Top,Power 
+Altroz,Tata,Dark Blue,24,600000,5,Best,Petrol,4,4 seater,Top,Power and fuel efficient
+Verna,Hundai,Gold,17,1525000,4,Good,Diesel,4,4 seater,Top,Power 
+Thar,Mahendra,Mat black,16,1025000,4.5,Good,Diesel,4,4 seater,Top,Power 
+i20,Hundai,Red,20,1025000,4,Good,Diesel,4,4 seater,Top,Power and fuel efficient
+Thar,Mahendra,Dark Blue,16,975000,4.5,Good,Diesel,4,4 seater,Mid,Power 
+Alto 800,Maruthi Suzuki,White,25,550000,3.5,Fairly Good,Petrol,4,4 seater,Mid,Fuel Efficient
+Swift,Maruthi Suzuki,Maroon,23,950000,4,Good,Petrol,4,4 seater,Mid,Fuel Efficient
+Creta,Hundai,Red,19,1300000,4.5,Good,Diesel,5,5 seater,Basic,Power and fuel efficient
+Santro,Hundai,Maroon,25,475000,4,Good,Diesel,4,4 seater,Basic,Fuel Efficient
+Creta,Hundai,Maroon,19,1500000,4.5,Good,Petrol,5,5 seater,Top,Power and fuel efficient
+Fortuner,Tayota,Black,10,3500000,5,Best,Petrol,7,7 seater,Basic,Power 
+City,Honda,Maroon,19,1300000,4.5,Good,Diesel,4,4 seater,Basic,Power and fuel efficient
+Baleno,Maruthi Suzuki,Crome/ Silver,24,975000,4,Good,Diesel,5,5 seater,Mid,Fuel Efficient
+Nexon,Tata,Gold,22,1025000,5,Best,Diesel,5,5 seater,Top,Fuel Efficient
+Nexon,Tata,Dark Blue,22,950000,5,Best,Petrol,5,5 seater,Mid,Fuel Efficient
+Baleno,Maruthi Suzuki,Dark Blue,24,1050000,4,Good,Diesel,5,5 seater,Top,Fuel Efficient
+Scorpio,Mahendra,Maroon,17,1300000,4.5,Good,Diesel,7,7 seater,Basic,Power 
+Fortuner,Tayota,Maroon,10,3525000,5,Best,Diesel,7,7 seater,Basic,Power 
+Hector,MG,Red,18,1475000,4.5,Good,Diesel,5,5 seater,Mid,Power and fuel efficient
+Creta,Hundai,Red,19,1450000,4.5,Good,Petrol,5,5 seater,Mid,Power and fuel efficient
+XUV300,Mahendra,Black,22,975000,4.5,Good,Diesel,5,5 seater,Mid,Power and fuel efficient
+Santro,Hundai,Crome/ Silver,25,600000,4,Good,Petrol,4,4 seater,Top,Fuel Efficient
+Verna,Hundai,Crome/ Silver,17,1525000,4,Good,Diesel,4,4 seater,Top,Power 
+XUV700,Mahendra,White,17,1500000,5,Best,Petrol,7,7 seater,Top,Power 
+Ertiga,Maruthi Suzuki,Dark Blue,18,1475000,4,Good,Diesel,7,7 seater,Mid,Fuel Efficient
+Alto 800,Maruthi Suzuki,White,25,625000,3.5,Fairly Good,Diesel,4,4 seater,Top,Fuel Efficient
+Alto 800,Maruthi Suzuki,Gold,25,475000,3.5,Fairly Good,Diesel,4,4 seater,Basic,Fuel Efficient
+Punch,Tata,Crome/ Silver,24,625000,4.5,Good,Diesel,4,4 seater,Top,Fuel Efficient
+Thar,Mahendra,Crome/ Silver,16,950000,4.5,Good,Petrol,4,4 seater,Mid,Power 
+City,Honda,Gold,19,1475000,4.5,Good,Diesel,4,4 seater,Mid,Power and fuel efficient
+XUV700,Mahendra,Dark Blue,17,1300000,5,Best,Diesel,7,7 seater,Basic,Power 
+Vitara Brezza,Maruthi Suzuki,Gold,22,1475000,4,Good,Diesel,5,5 seater,Mid,Fuel Efficient
+Inova Crysta,Tayota,White,12,3000000,5,Best,Petrol,7,7 seater,Top,Power 
+Creta,Hundai,Black,19,1275000,4.5,Good,Petrol,5,5 seater,Basic,Power and fuel efficient
+City,Honda,Maroon,19,1525000,4.5,Good,Diesel,4,4 seater,Top,Power and fuel efficient
+Punch,Tata,Red,24,550000,4.5,Good,Petrol,4,4 seater,Mid,Fuel Efficient
+Civic,Honda,Gold,17,1275000,4.5,Good,Petrol,5,5 seater,Basic,Power 
+Civic,Honda,Dark Blue,17,1500000,4.5,Good,Petrol,5,5 seater,Top,Power 
+Celerio,Maruthi Suzuki,Maroon,25,600000,3.5,Fairly Good,Petrol,4,4 seater,Top,Fuel Efficient
+Celerio,Maruthi Suzuki,Black,25,600000,3.5,Fairly Good,Petrol,4,4 seater,Top,Fuel Efficient
+Creta,Hundai,Black,19,1275000,4.5,Good,Petrol,5,5 seater,Basic,Power and fuel efficient
+Altroz,Tata,White,24,550000,5,Best,Petrol,4,4 seater,Mid,Power and fuel efficient
+XUV300,Mahendra,Crome/ Silver,22,1000000,4.5,Good,Petrol,5,5 seater,Top,Power and fuel efficient
+City,Honda,White,19,1475000,4.5,Good,Diesel,4,4 seater,Mid,Power and fuel efficient
+Altroz,Tata,Gold,24,475000,5,Best,Diesel,4,4 seater,Basic,Power and fuel efficient
+Civic,Honda,Maroon,17,1300000,4.5,Good,Diesel,5,5 seater,Basic,Power 
+Etios,Tayota,Maroon,22,900000,4,Good,Diesel,7,7 seater,Basic,Fuel Efficient
+Harrier,Tata,Crome/ Silver,22,1025000,4.5,Good,Diesel,5,5 seater,Top,Fuel Efficient
+Punch,Tata,Gold,24,450000,4.5,Good,Petrol,4,4 seater,Basic,Fuel Efficient
+Punch,Tata,Dark Blue,24,625000,4.5,Good,Diesel,4,4 seater,Top,Fuel Efficient
+Altroz,Tata,Maroon,24,625000,5,Best,Diesel,4,4 seater,Top,Power and fuel efficient
+Harrier,Tata,Maroon,22,1000000,4.5,Good,Petrol,5,5 seater,Top,Fuel Efficient
+Verna,Hundai,Crome/ Silver,17,1525000,4,Good,Diesel,4,4 seater,Top,Power 
+Hector,MG,Mat black,18,1525000,4.5,Good,Diesel,5,5 seater,Top,Power and fuel efficient
+Inova Crysta,Tayota,White,12,2700000,5,Best,Petrol,7,7 seater,Mid,Power 
+Celerio,Maruthi Suzuki,White,25,475000,3.5,Fairly Good,Diesel,4,4 seater,Basic,Fuel Efficient
+Santro,Hundai,Maroon,25,550000,4,Good,Petrol,4,4 seater,Mid,Fuel Efficient
+Verna,Hundai,White,17,1275000,4,Good,Petrol,4,4 seater,Basic,Power 
+Creta,Hundai,Black,19,1475000,4.5,Good,Diesel,5,5 seater,Mid,Power and fuel efficient
+Fortuner,Tayota,White,10,3750000,5,Best,Petrol,7,7 seater,Mid,Power 
+Swift,Maruthi Suzuki,Mat black,23,875000,4,Good,Petrol,4,4 seater,Basic,Fuel Efficient
+Nexon,Tata,Red,22,1025000,5,Best,Diesel,5,5 seater,Top,Fuel Efficient
+Scorpio,Mahendra,Black,17,1450000,4.5,Good,Petrol,7,7 seater,Mid,Power 
+i20,Hundai,Red,20,950000,4,Good,Petrol,4,4 seater,Mid,Power and fuel efficient
+Hector,MG,Gold,18,1300000,4.5,Good,Diesel,5,5 seater,Basic,Power and fuel efficient
+Harrier,Tata,Dark Blue,22,975000,4.5,Good,Diesel,5,5 seater,Mid,Fuel Efficient
+Altroz,Tata,White,24,550000,5,Best,Petrol,4,4 seater,Mid,Power and fuel efficient
+XUV300,Mahendra,Crome/ Silver,22,1025000,4.5,Good,Diesel,5,5 seater,Top,Power and fuel efficient
+City,Honda,Mat black,19,1450000,4.5,Good,Petrol,4,4 seater,Mid,Power and fuel efficient
+Civic,Honda,Black,17,1300000,4.5,Good,Diesel,5,5 seater,Basic,Power 
+Celerio,Maruthi Suzuki,White,25,600000,3.5,Fairly Good,Petrol,4,4 seater,Top,Fuel Efficient
+Verna,Hundai,White,17,1275000,4,Good,Petrol,4,4 seater,Basic,Power 
+Swift,Maruthi Suzuki,Maroon,23,875000,4,Good,Petrol,4,4 seater,Basic,Fuel Efficient
+Etios,Tayota,White,22,1025000,4,Good,Diesel,7,7 seater,Top,Fuel Efficient
+Celerio,Maruthi Suzuki,Maroon,25,475000,3.5,Fairly Good,Diesel,4,4 seater,Basic,Fuel Efficient
+Alto 800,Maruthi Suzuki,Mat black,25,450000,3.5,Fairly Good,Petrol,4,4 seater,Basic,Fuel Efficient
+Etios,Tayota,Red,22,975000,4,Good,Diesel,7,7 seater,Mid,Fuel Efficient
+Nexon,Tata,Dark Blue,22,900000,5,Best,Diesel,5,5 seater,Basic,Fuel Efficient
+Swift,Maruthi Suzuki,Crome/ Silver,23,875000,4,Good,Petrol,4,4 seater,Basic,Fuel Efficient
+Inova Crysta,Tayota,Maroon,12,3000000,5,Best,Petrol,7,7 seater,Top,Power 
+Ertiga,Maruthi Suzuki,Black,18,1500000,4,Good,Petrol,7,7 seater,Top,Fuel Efficient
+Alto 800,Maruthi Suzuki,White,25,450000,3.5,Fairly Good,Petrol,4,4 seater,Basic,Fuel Efficient
+Santro,Hundai,Gold,25,550000,4,Good,Petrol,4,4 seater,Mid,Fuel Efficient
+Civic,Honda,Dark Blue,17,1275000,4.5,Good,Petrol,5,5 seater,Basic,Power 
+XUV300,Mahendra,Red,22,875000,4.5,Good,Petrol,5,5 seater,Basic,Power and fuel efficient
+Santro,Hundai,Maroon,25,575000,4,Good,Diesel,4,4 seater,Mid,Fuel Efficient
+Etios,Tayota,Mat black,22,1000000,4,Good,Petrol,7,7 seater,Top,Fuel Efficient
+XUV700,Mahendra,Mat black,17,1475000,5,Best,Diesel,7,7 seater,Mid,Power 
+Ertiga,Maruthi Suzuki,White,18,1500000,4,Good,Petrol,7,7 seater,Top,Fuel Efficient
+Creta,Hundai,White,19,1450000,4.5,Good,Petrol,5,5 seater,Mid,Power and fuel efficient
+Thar,Mahendra,Mat black,16,875000,4.5,Good,Petrol,4,4 seater,Basic,Power 
+Ertiga,Maruthi Suzuki,White,18,1525000,4,Good,Diesel,7,7 seater,Top,Fuel Efficient
+Santro,Hundai,Maroon,25,600000,4,Good,Petrol,4,4 seater,Top,Fuel Efficient
+Thar,Mahendra,Dark Blue,16,1025000,4.5,Good,Diesel,4,4 seater,Top,Power 
+Creta,Hundai,Crome/ Silver,19,1475000,4.5,Good,Diesel,5,5 seater,Mid,Power and fuel efficient
+Harrier,Tata,Mat black,22,1025000,4.5,Good,Diesel,5,5 seater,Top,Fuel Efficient
+Fortuner,Tayota,Dark Blue,10,3525000,5,Best,Diesel,7,7 seater,Basic,Power 
+Vitara Brezza,Maruthi Suzuki,Mat black,22,1500000,4,Good,Petrol,5,5 seater,Top,Fuel Efficient
+Vitara Brezza,Maruthi Suzuki,Red,22,1500000,4,Good,Petrol,5,5 seater,Top,Fuel Efficient
+Harrier,Tata,Crome/ Silver,22,950000,4.5,Good,Petrol,5,5 seater,Mid,Fuel Efficient
+Vitara Brezza,Maruthi Suzuki,Crome/ Silver,22,1275000,4,Good,Petrol,5,5 seater,Basic,Fuel Efficient
+Alto 800,Maruthi Suzuki,Black,25,450000,3.5,Fairly Good,Petrol,4,4 seater,Basic,Fuel Efficient
+Ertiga,Maruthi Suzuki,Crome/ Silver,18,1450000,4,Good,Petrol,7,7 seater,Mid,Fuel Efficient
+Baleno,Maruthi Suzuki,Mat black,24,1050000,4,Good,Diesel,5,5 seater,Top,Fuel Efficient
+XUV700,Mahendra,Mat black,17,1300000,5,Best,Diesel,7,7 seater,Basic,Power 
+Punch,Tata,Crome/ Silver,24,450000,4.5,Good,Petrol,4,4 seater,Basic,Fuel Efficient
+Santro,Hundai,Black,25,625000,4,Good,Diesel,4,4 seater,Top,Fuel Efficient
+Alto 800,Maruthi Suzuki,White,25,550000,3.5,Fairly Good,Petrol,4,4 seater,Mid,Fuel Efficient
+Punch,Tata,Mat black,24,450000,4.5,Good,Petrol,4,4 seater,Basic,Fuel Efficient
+Harrier,Tata,Crome/ Silver,22,950000,4.5,Good,Petrol,5,5 seater,Mid,Fuel Efficient
+Scorpio,Mahendra,Mat black,17,1550000,4.5,Good,Diesel,7,7 seater,Top,Power 
+Altroz,Tata,Crome/ Silver,24,575000,5,Best,Diesel,4,4 seater,Mid,Power and fuel efficient
+Vitara Brezza,Maruthi Suzuki,Black,22,1450000,4,Good,Petrol,5,5 seater,Mid,Fuel Efficient
+Celerio,Maruthi Suzuki,Dark Blue,25,600000,3.5,Fairly Good,Petrol,4,4 seater,Top,Fuel Efficient
+Seltos,Kia,Black,20,1275000,4.5,Good,Petrol,7,7 seater,Basic,Power and fuel efficient
+Alto 800,Maruthi Suzuki,Mat black,25,550000,3.5,Fairly Good,Petrol,4,4 seater,Mid,Fuel Efficient
+XUV700,Mahendra,Black,17,1475000,5,Best,Diesel,7,7 seater,Mid,Power 
+Nexon,Tata,Mat black,22,900000,5,Best,Diesel,5,5 seater,Basic,Fuel Efficient
+XUV700,Mahendra,Crome/ Silver,17,1275000,5,Best,Petrol,7,7 seater,Basic,Power 
+Swift,Maruthi Suzuki,Red,23,1025000,4,Good,Diesel,4,4 seater,Top,Fuel Efficient
+Scorpio,Mahendra,White,17,1475000,4.5,Good,Diesel,7,7 seater,Mid,Power 
+Scorpio,Mahendra,Dark Blue,17,1275000,4.5,Good,Petrol,7,7 seater,Basic,Power 
+Baleno,Maruthi Suzuki,Dark Blue,24,975000,4,Good,Diesel,5,5 seater,Mid,Fuel Efficient
+Hector,MG,Black,18,1475000,4.5,Good,Diesel,5,5 seater,Mid,Power and fuel efficient
+Etios,Tayota,Gold,22,975000,4,Good,Diesel,7,7 seater,Mid,Fuel Efficient
+Inova Crysta,Tayota,Red,12,2700000,5,Best,Petrol,7,7 seater,Mid,Power 
+XUV300,Mahendra,Mat black,22,900000,4.5,Good,Diesel,5,5 seater,Basic,Power and fuel efficient
+Harrier,Tata,Crome/ Silver,22,900000,4.5,Good,Diesel,5,5 seater,Basic,Fuel Efficient
+Punch,Tata,Gold,24,450000,4.5,Good,Petrol,4,4 seater,Basic,Fuel Efficient
+Thar,Mahendra,Dark Blue,16,1025000,4.5,Good,Diesel,4,4 seater,Top,Power 
+Altroz,Tata,White,24,550000,5,Best,Petrol,4,4 seater,Mid,Power and fuel efficient
+Inova Crysta,Tayota,Dark Blue,12,2500000,5,Best,Petrol,7,7 seater,Basic,Power 
+Vitara Brezza,Maruthi Suzuki,White,22,1300000,4,Good,Diesel,5,5 seater,Basic,Fuel Efficient
+Thar,Mahendra,Red,16,1000000,4.5,Good,Petrol,4,4 seater,Top,Power 
+Inova Crysta,Tayota,Mat black,12,2500000,5,Best,Petrol,7,7 seater,Basic,Power 
+Seltos,Kia,Black,20,1525000,4.5,Good,Diesel,7,7 seater,Top,Power and fuel efficient
+Altroz,Tata,White,24,475000,5,Best,Diesel,4,4 seater,Basic,Power and fuel efficient
+Altroz,Tata,Crome/ Silver,24,600000,5,Best,Petrol,4,4 seater,Top,Power and fuel efficient
+City,Honda,Dark Blue,19,1300000,4.5,Good,Diesel,4,4 seater,Basic,Power and fuel efficient
+i20,Hundai,Red,20,975000,4,Good,Diesel,4,4 seater,Mid,Power and fuel efficient
+Alto 800,Maruthi Suzuki,Dark Blue,25,600000,3.5,Fairly Good,Petrol,4,4 seater,Top,Fuel Efficient
+Scorpio,Mahendra,Red,17,1550000,4.5,Good,Diesel,7,7 seater,Top,Power 
+Santro,Hundai,White,25,575000,4,Good,Diesel,4,4 seater,Mid,Fuel Efficient
+City,Honda,Crome/ Silver,19,1300000,4.5,Good,Diesel,4,4 seater,Basic,Power and fuel efficient
+Seltos,Kia,Black,20,1475000,4.5,Good,Diesel,7,7 seater,Mid,Power and fuel efficient
+Alto 800,Maruthi Suzuki,Crome/ Silver,25,625000,3.5,Fairly Good,Diesel,4,4 seater,Top,Fuel Efficient
+Verna,Hundai,Black,17,1275000,4,Good,Petrol,4,4 seater,Basic,Power 
+Alto 800,Maruthi Suzuki,Crome/ Silver,25,450000,3.5,Fairly Good,Petrol,4,4 seater,Basic,Fuel Efficient
+City,Honda,Mat black,19,1450000,4.5,Good,Petrol,4,4 seater,Mid,Power and fuel efficient
+Vitara Brezza,Maruthi Suzuki,Maroon,22,1450000,4,Good,Petrol,5,5 seater,Mid,Fuel Efficient
+City,Honda,Black,19,1500000,4.5,Good,Petrol,4,4 seater,Top,Power and fuel efficient
+Ertiga,Maruthi Suzuki,Maroon,18,1450000,4,Good,Petrol,7,7 seater,Mid,Fuel Efficient
+Verna,Hundai,Mat black,17,1275000,4,Good,Petrol,4,4 seater,Basic,Power 
+XUV700,Mahendra,Crome/ Silver,17,1450000,5,Best,Petrol,7,7 seater,Mid,Power 
+Fortuner,Tayota,Red,10,4000000,5,Best,Petrol,7,7 seater,Top,Power 
+Fortuner,Tayota,Red,10,4000000,5,Best,Petrol,7,7 seater,Top,Power 
+Harrier,Tata,Gold,22,900000,4.5,Good,Diesel,5,5 seater,Basic,Fuel Efficient
+Civic,Honda,Dark Blue,17,1500000,4.5,Good,Petrol,5,5 seater,Top,Power 
+Inova Crysta,Tayota,Red,12,2700000,5,Best,Petrol,7,7 seater,Mid,Power 
+Hector,MG,Gold,18,1275000,4.5,Good,Petrol,5,5 seater,Basic,Power and fuel efficient
+Seltos,Kia,Mat black,20,1525000,4.5,Good,Diesel,7,7 seater,Top,Power and fuel efficient
+Ertiga,Maruthi Suzuki,Dark Blue,18,1500000,4,Good,Petrol,7,7 seater,Top,Fuel Efficient
+Vitara Brezza,Maruthi Suzuki,Dark Blue,22,1300000,4,Good,Diesel,5,5 seater,Basic,Fuel Efficient
+Ertiga,Maruthi Suzuki,Dark Blue,18,1525000,4,Good,Diesel,7,7 seater,Top,Fuel Efficient
+XUV300,Mahendra,Mat black,22,975000,4.5,Good,Diesel,5,5 seater,Mid,Power and fuel efficient
+Etios,Tayota,Red,22,975000,4,Good,Diesel,7,7 seater,Mid,Fuel Efficient
+Creta,Hundai,Mat black,19,1475000,4.5,Good,Diesel,5,5 seater,Mid,Power and fuel efficient
+i20,Hundai,Black,20,1000000,4,Good,Petrol,4,4 seater,Top,Power and fuel efficient
+Thar,Mahendra,Gold,16,975000,4.5,Good,Diesel,4,4 seater,Mid,Power 
+Vitara Brezza,Maruthi Suzuki,White,22,1300000,4,Good,Diesel,5,5 seater,Basic,Fuel Efficient
+Baleno,Maruthi Suzuki,Gold,24,1050000,4,Good,Diesel,5,5 seater,Top,Fuel Efficient
+Punch,Tata,White,24,575000,4.5,Good,Diesel,4,4 seater,Mid,Fuel Efficient
+Verna,Hundai,Maroon,17,1300000,4,Good,Diesel,4,4 seater,Basic,Power 
+Altroz,Tata,Mat black,24,550000,5,Best,Petrol,4,4 seater,Mid,Power and fuel efficient
+XUV300,Mahendra,White,22,1025000,4.5,Good,Diesel,5,5 seater,Top,Power and fuel efficient
+Swift,Maruthi Suzuki,Black,23,875000,4,Good,Petrol,4,4 seater,Basic,Fuel Efficient
+Ertiga,Maruthi Suzuki,Red,18,1525000,4,Good,Diesel,7,7 seater,Top,Fuel Efficient
+Creta,Hundai,Red,19,1300000,4.5,Good,Diesel,5,5 seater,Basic,Power and fuel efficient
+Hector,MG,Crome/ Silver,18,1300000,4.5,Good,Diesel,5,5 seater,Basic,Power and fuel efficient
+Celerio,Maruthi Suzuki,Gold,25,600000,3.5,Fairly Good,Petrol,4,4 seater,Top,Fuel Efficient
+Fortuner,Tayota,Black,10,3750000,5,Best,Petrol,7,7 seater,Mid,Power 
+Etios,Tayota,Red,22,1025000,4,Good,Diesel,7,7 seater,Top,Fuel Efficient
+Nexon,Tata,Red,22,1000000,5,Best,Petrol,5,5 seater,Top,Fuel Efficient
+Baleno,Maruthi Suzuki,White,24,1050000,4,Good,Diesel,5,5 seater,Top,Fuel Efficient
+Santro,Hundai,Dark Blue,25,450000,4,Good,Petrol,4,4 seater,Basic,Fuel Efficient
+Harrier,Tata,Maroon,22,975000,4.5,Good,Diesel,5,5 seater,Mid,Fuel Efficient
+Nexon,Tata,White,22,975000,5,Best,Diesel,5,5 seater,Mid,Fuel Efficient
+Swift,Maruthi Suzuki,White,23,975000,4,Good,Diesel,4,4 seater,Mid,Fuel Efficient
+i20,Hundai,Red,20,1000000,4,Good,Petrol,4,4 seater,Top,Power and fuel efficient
+Verna,Hundai,Mat black,17,1300000,4,Good,Diesel,4,4 seater,Basic,Power 
+Punch,Tata,Black,24,475000,4.5,Good,Diesel,4,4 seater,Basic,Fuel Efficient
+Thar,Mahendra,Gold,16,950000,4.5,Good,Petrol,4,4 seater,Mid,Power 
+Alto 800,Maruthi Suzuki,Black,25,550000,3.5,Fairly Good,Petrol,4,4 seater,Mid,Fuel Efficient
+Thar,Mahendra,Maroon,16,1025000,4.5,Good,Diesel,4,4 seater,Top,Power 
+Inova Crysta,Tayota,Black,12,3000000,5,Best,Petrol,7,7 seater,Top,Power 
+Scorpio,Mahendra,Mat black,17,1500000,4.5,Good,Petrol,7,7 seater,Top,Power 
+Swift,Maruthi Suzuki,Maroon,23,1025000,4,Good,Diesel,4,4 seater,Top,Fuel Efficient
+City,Honda,Maroon,19,1300000,4.5,Good,Diesel,4,4 seater,Basic,Power and fuel efficient
+Alto 800,Maruthi Suzuki,Mat black,25,600000,3.5,Fairly Good,Petrol,4,4 seater,Top,Fuel Efficient
+Seltos,Kia,Crome/ Silver,20,1525000,4.5,Good,Diesel,7,7 seater,Top,Power and fuel efficient
+i20,Hundai,Black,20,975000,4,Good,Diesel,4,4 seater,Mid,Power and fuel efficient
+Celerio,Maruthi Suzuki,Dark Blue,25,575000,3.5,Fairly Good,Diesel,4,4 seater,Mid,Fuel Efficient
+Thar,Mahendra,Dark Blue,16,1000000,4.5,Good,Petrol,4,4 seater,Top,Power 
+Baleno,Maruthi Suzuki,Gold,24,950000,4,Good,Petrol,5,5 seater,Mid,Fuel Efficient
+Ertiga,Maruthi Suzuki,Maroon,18,1525000,4,Good,Diesel,7,7 seater,Top,Fuel Efficient
+Scorpio,Mahendra,Maroon,17,1300000,4.5,Good,Diesel,7,7 seater,Basic,Power 
+Fortuner,Tayota,Gold,10,3500000,5,Best,Petrol,7,7 seater,Basic,Power 
+i20,Hundai,Crome/ Silver,20,950000,4,Good,Petrol,4,4 seater,Mid,Power and fuel efficient
+i20,Hundai,Gold,20,1000000,4,Good,Petrol,4,4 seater,Top,Power and fuel efficient
+Celerio,Maruthi Suzuki,White,25,600000,3.5,Fairly Good,Petrol,4,4 seater,Top,Fuel Efficient
+Scorpio,Mahendra,Dark Blue,17,1450000,4.5,Good,Petrol,7,7 seater,Mid,Power 
+Punch,Tata,Gold,24,575000,4.5,Good,Diesel,4,4 seater,Mid,Fuel Efficient
+Nexon,Tata,Red,22,875000,5,Best,Petrol,5,5 seater,Basic,Fuel Efficient
+Altroz,Tata,Crome/ Silver,24,475000,5,Best,Diesel,4,4 seater,Basic,Power and fuel efficient
+Alto 800,Maruthi Suzuki,Red,25,575000,3.5,Fairly Good,Diesel,4,4 seater,Mid,Fuel Efficient
+XUV700,Mahendra,Gold,17,1275000,5,Best,Petrol,7,7 seater,Basic,Power 
+Etios,Tayota,Red,22,900000,4,Good,Diesel,7,7 seater,Basic,Fuel Efficient
+Hector,MG,Crome/ Silver,18,1275000,4.5,Good,Petrol,5,5 seater,Basic,Power and fuel efficient
+Verna,Hundai,Maroon,17,1500000,4,Good,Petrol,4,4 seater,Top,Power 
+Swift,Maruthi Suzuki,Black,23,900000,4,Good,Diesel,4,4 seater,Basic,Fuel Efficient
+i20,Hundai,Mat black,20,875000,4,Good,Petrol,4,4 seater,Basic,Power and fuel efficient
+Seltos,Kia,White,20,1475000,4.5,Good,Diesel,7,7 seater,Mid,Power and fuel efficient
+Inova Crysta,Tayota,Maroon,12,2500000,5,Best,Petrol,7,7 seater,Basic,Power 
+Verna,Hundai,Dark Blue,17,1500000,4,Good,Petrol,4,4 seater,Top,Power 
+Scorpio,Mahendra,Mat black,17,1450000,4.5,Good,Petrol,7,7 seater,Mid,Power 
+Celerio,Maruthi Suzuki,Gold,25,475000,3.5,Fairly Good,Diesel,4,4 seater,Basic,Fuel Efficient
+Nexon,Tata,Crome/ Silver,22,1025000,5,Best,Diesel,5,5 seater,Top,Fuel Efficient
+Santro,Hundai,Black,25,625000,4,Good,Diesel,4,4 seater,Top,Fuel Efficient
+Seltos,Kia,Maroon,20,1525000,4.5,Good,Diesel,7,7 seater,Top,Power and fuel efficient
+XUV300,Mahendra,Gold,22,875000,4.5,Good,Petrol,5,5 seater,Basic,Power and fuel efficient
+Scorpio,Mahendra,Crome/ Silver,17,1550000,4.5,Good,Diesel,7,7 seater,Top,Power 
+XUV700,Mahendra,Mat black,17,1500000,5,Best,Petrol,7,7 seater,Top,Power 
+Hector,MG,Dark Blue,18,1525000,4.5,Good,Diesel,5,5 seater,Top,Power and fuel efficient
+Fortuner,Tayota,Red,10,3775000,5,Best,Diesel,7,7 seater,Mid,Power 
+Celerio,Maruthi Suzuki,White,25,625000,3.5,Fairly Good,Diesel,4,4 seater,Top,Fuel Efficient
+Swift,Maruthi Suzuki,Crome/ Silver,23,975000,4,Good,Diesel,4,4 seater,Mid,Fuel Efficient
+Nexon,Tata,Crome/ Silver,22,875000,5,Best,Petrol,5,5 seater,Basic,Fuel Efficient
+City,Honda,Crome/ Silver,19,1500000,4.5,Good,Petrol,4,4 seater,Top,Power and fuel efficient
+XUV700,Mahendra,Red,17,1550000,5,Best,Diesel,7,7 seater,Top,Power 
+Verna,Hundai,Dark Blue,17,1450000,4,Good,Petrol,4,4 seater,Mid,Power 
+Alto 800,Maruthi Suzuki,Maroon,25,575000,3.5,Fairly Good,Diesel,4,4 seater,Mid,Fuel Efficient
+Swift,Maruthi Suzuki,White,23,950000,4,Good,Petrol,4,4 seater,Mid,Fuel Efficient
+Scorpio,Mahendra,Mat black,17,1275000,4.5,Good,Petrol,7,7 seater,Basic,Power 
+XUV700,Mahendra,Mat black,17,1275000,5,Best,Petrol,7,7 seater,Basic,Power 
+Celerio,Maruthi Suzuki,Crome/ Silver,25,450000,3.5,Fairly Good,Petrol,4,4 seater,Basic,Fuel Efficient
+Fortuner,Tayota,Crome/ Silver,10,4050000,5,Best,Diesel,7,7 seater,Top,Power 
+Civic,Honda,Crome/ Silver,17,1500000,4.5,Good,Petrol,5,5 seater,Top,Power 
+i20,Hundai,Maroon,20,975000,4,Good,Diesel,4,4 seater,Mid,Power and fuel efficient
+Seltos,Kia,White,20,1475000,4.5,Good,Diesel,7,7 seater,Mid,Power and fuel efficient
+Alto 800,Maruthi Suzuki,Mat black,25,600000,3.5,Fairly Good,Petrol,4,4 seater,Top,Fuel Efficient
+Baleno,Maruthi Suzuki,Red,24,1050000,4,Good,Diesel,5,5 seater,Top,Fuel Efficient
+Etios,Tayota,Crome/ Silver,22,975000,4,Good,Diesel,7,7 seater,Mid,Fuel Efficient
+XUV300,Mahendra,Dark Blue,22,1000000,4.5,Good,Petrol,5,5 seater,Top,Power and fuel efficient
+Etios,Tayota,Red,22,900000,4,Good,Diesel,7,7 seater,Basic,Fuel Efficient
+Scorpio,Mahendra,Dark Blue,17,1300000,4.5,Good,Diesel,7,7 seater,Basic,Power 
+Scorpio,Mahendra,Mat black,17,1300000,4.5,Good,Diesel,7,7 seater,Basic,Power 
+Etios,Tayota,Maroon,22,900000,4,Good,Diesel,7,7 seater,Basic,Fuel Efficient
+Thar,Mahendra,Red,16,950000,4.5,Good,Petrol,4,4 seater,Mid,Power 
+XUV700,Mahendra,Black,17,1550000,5,Best,Diesel,7,7 seater,Top,Power 
+Thar,Mahendra,White,16,1025000,4.5,Good,Diesel,4,4 seater,Top,Power 
+Fortuner,Tayota,White,10,4000000,5,Best,Petrol,7,7 seater,Top,Power 
+Altroz,Tata,Crome/ Silver,24,600000,5,Best,Petrol,4,4 seater,Top,Power and fuel efficient
+Ertiga,Maruthi Suzuki,Dark Blue,18,1300000,4,Good,Diesel,7,7 seater,Basic,Fuel Efficient
+Punch,Tata,Red,24,550000,4.5,Good,Petrol,4,4 seater,Mid,Fuel Efficient
+Santro,Hundai,Gold,25,450000,4,Good,Petrol,4,4 seater,Basic,Fuel Efficient
+XUV300,Mahendra,Red,22,900000,4.5,Good,Diesel,5,5 seater,Basic,Power and fuel efficient
+Swift,Maruthi Suzuki,Red,23,1025000,4,Good,Diesel,4,4 seater,Top,Fuel Efficient
+Nexon,Tata,Maroon,22,950000,5,Best,Petrol,5,5 seater,Mid,Fuel Efficient
+City,Honda,Red,19,1450000,4.5,Good,Petrol,4,4 seater,Mid,Power and fuel efficient
+Civic,Honda,Crome/ Silver,17,1475000,4.5,Good,Diesel,5,5 seater,Mid,Power 
+Seltos,Kia,Gold,20,1500000,4.5,Good,Petrol,7,7 seater,Top,Power and fuel efficient
+Vitara Brezza,Maruthi Suzuki,White,22,1275000,4,Good,Petrol,5,5 seater,Basic,Fuel Efficient
+Punch,Tata,Red,24,575000,4.5,Good,Diesel,4,4 seater,Mid,Fuel Efficient
+Altroz,Tata,Gold,24,600000,5,Best,Petrol,4,4 seater,Top,Power and fuel efficient
+Swift,Maruthi Suzuki,Crome/ Silver,23,1025000,4,Good,Diesel,4,4 seater,Top,Fuel Efficient
+Swift,Maruthi Suzuki,Crome/ Silver,23,875000,4,Good,Petrol,4,4 seater,Basic,Fuel Efficient
+i20,Hundai,White,20,950000,4,Good,Petrol,4,4 seater,Mid,Power and fuel efficient
+City,Honda,Black,19,1300000,4.5,Good,Diesel,4,4 seater,Basic,Power and fuel efficient
+Seltos,Kia,Dark Blue,20,1300000,4.5,Good,Diesel,7,7 seater,Basic,Power and fuel efficient
+Thar,Mahendra,Black,16,950000,4.5,Good,Petrol,4,4 seater,Mid,Power 
+Baleno,Maruthi Suzuki,Crome/ Silver,24,875000,4,Good,Diesel,5,5 seater,Basic,Fuel Efficient
+XUV300,Mahendra,Red,22,1000000,4.5,Good,Petrol,5,5 seater,Top,Power and fuel efficient
+XUV700,Mahendra,Red,17,1550000,5,Best,Diesel,7,7 seater,Top,Power 
+Hector,MG,Gold,18,1300000,4.5,Good,Diesel,5,5 seater,Basic,Power and fuel efficient
+Altroz,Tata,Black,24,600000,5,Best,Petrol,4,4 seater,Top,Power and fuel efficient
+Verna,Hundai,Red,17,1500000,4,Good,Petrol,4,4 seater,Top,Power 
+Alto 800,Maruthi Suzuki,Mat black,25,625000,3.5,Fairly Good,Diesel,4,4 seater,Top,Fuel Efficient
+Punch,Tata,Mat black,24,575000,4.5,Good,Diesel,4,4 seater,Mid,Fuel Efficient
+i20,Hundai,Red,20,900000,4,Good,Diesel,4,4 seater,Basic,Power and fuel efficient
+Harrier,Tata,Gold,22,950000,4.5,Good,Petrol,5,5 seater,Mid,Fuel Efficient
+Nexon,Tata,Red,22,1025000,5,Best,Diesel,5,5 seater,Top,Fuel Efficient
+Fortuner,Tayota,Maroon,10,4000000,5,Best,Petrol,7,7 seater,Top,Power 
+Inova Crysta,Tayota,Maroon,12,3050000,5,Best,Diesel,7,7 seater,Top,Power 
+Alto 800,Maruthi Suzuki,Dark Blue,25,600000,3.5,Fairly Good,Petrol,4,4 seater,Top,Fuel Efficient
+City,Honda,Crome/ Silver,19,1500000,4.5,Good,Petrol,4,4 seater,Top,Power and fuel efficient
+Alto 800,Maruthi Suzuki,Dark Blue,25,450000,3.5,Fairly Good,Petrol,4,4 seater,Basic,Fuel Efficient
+Seltos,Kia,Gold,20,1275000,4.5,Good,Petrol,7,7 seater,Basic,Power and fuel efficient
+i20,Hundai,Maroon,20,950000,4,Good,Petrol,4,4 seater,Mid,Power and fuel efficient
+Civic,Honda,Black,17,1300000,4.5,Good,Diesel,5,5 seater,Basic,Power 
+Harrier,Tata,Black,22,975000,4.5,Good,Diesel,5,5 seater,Mid,Fuel Efficient
+Creta,Hundai,Mat black,19,1475000,4.5,Good,Diesel,5,5 seater,Mid,Power and fuel efficient
+Swift,Maruthi Suzuki,Dark Blue,23,900000,4,Good,Diesel,4,4 seater,Basic,Fuel Efficient
+Celerio,Maruthi Suzuki,Red,25,550000,3.5,Fairly Good,Petrol,4,4 seater,Mid,Fuel Efficient
+i20,Hundai,Black,20,950000,4,Good,Petrol,4,4 seater,Mid,Power and fuel efficient
+Seltos,Kia,Gold,20,1450000,4.5,Good,Petrol,7,7 seater,Mid,Power and fuel efficient
+XUV300,Mahendra,Mat black,22,1000000,4.5,Good,Petrol,5,5 seater,Top,Power and fuel efficient
+XUV700,Mahendra,White,17,1500000,5,Best,Petrol,7,7 seater,Top,Power 
+Scorpio,Mahendra,White,17,1500000,4.5,Good,Petrol,7,7 seater,Top,Power 
+Punch,Tata,Crome/ Silver,24,450000,4.5,Good,Petrol,4,4 seater,Basic,Fuel Efficient
+Inova Crysta,Tayota,Crome/ Silver,12,3000000,5,Best,Petrol,7,7 seater,Top,Power 
+Scorpio,Mahendra,Black,17,1475000,4.5,Good,Diesel,7,7 seater,Mid,Power 
+Inova Crysta,Tayota,Maroon,12,2750000,5,Best,Diesel,7,7 seater,Mid,Power 
+City,Honda,Black,19,1525000,4.5,Good,Diesel,4,4 seater,Top,Power and fuel efficient
+Hector,MG,Red,18,1525000,4.5,Good,Diesel,5,5 seater,Top,Power and fuel efficient
+Civic,Honda,Black,17,1500000,4.5,Good,Petrol,5,5 seater,Top,Power 
+Ertiga,Maruthi Suzuki,Black,18,1450000,4,Good,Petrol,7,7 seater,Mid,Fuel Efficient
+Inova Crysta,Tayota,Red,12,2500000,5,Best,Petrol,7,7 seater,Basic,Power 
+Punch,Tata,Black,24,575000,4.5,Good,Diesel,4,4 seater,Mid,Fuel Efficient
+XUV700,Mahendra,Dark Blue,17,1300000,5,Best,Diesel,7,7 seater,Basic,Power 
+City,Honda,Mat black,19,1525000,4.5,Good,Diesel,4,4 seater,Top,Power and fuel efficient
+Scorpio,Mahendra,Red,17,1475000,4.5,Good,Diesel,7,7 seater,Mid,Power 
+Fortuner,Tayota,Maroon,10,3525000,5,Best,Diesel,7,7 seater,Basic,Power 
